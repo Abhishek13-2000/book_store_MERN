@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "Story Book",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus, autem!",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freeiconspng.com/thumbs/book-png/book-png-18.png"
+    },
+    {
+        "id": 2,
+        "name": "Comedy Book",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus, autem!",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freeiconspng.com/thumbs/book-png/book-png-18.png"
+    },
+    {
+        "id": 3,
+        "name": "Horror Book",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus, autem!",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freeiconspng.com/thumbs/book-png/book-png-18.png"
+    },
+    {
+        "id": 4,
+        "name": "Entertainment Book",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus, autem!",
+        "price": 0,
+        "category": "Free",
+        "image": "https://www.freeiconspng.com/thumbs/book-png/book-png-18.png"
+    },
+    {
+        "id": 5,
+        "name": "Coding Book",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus, autem!",
+        "price": 200,
+        "category": "Coding",
+        "image": "https://www.freeiconspng.com/thumbs/book-png/book-png-18.png"
+    },
+    {
+        "id": 6,
+        "name": "DSA Book",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus, autem!",
+        "price": 549,
+        "category": "Data Structure",
+        "image": "https://www.freeiconspng.com/thumbs/book-png/book-png-18.png"
+    },
+    {
+        "id": 7,
+        "name": "Operating System Book",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus, autem!",
+        "price": 900,
+        "category": "OS",
+        "image": "https://www.freeiconspng.com/thumbs/book-png/book-png-18.png"
+    },
+    {
+        "id": 8,
+        "name": "MERN stack Book",
+        "title": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatibus, autem!",
+        "price": 999,
+        "category": "Mern",
+        "image": "https://www.freeiconspng.com/thumbs/book-png/book-png-18.png"
+    }
+]
