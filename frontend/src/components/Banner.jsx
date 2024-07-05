@@ -6,7 +6,7 @@ const Banner = () => {
     <div className='max-w-screen-2xl container mx-auto md:px-20 px-4 flex flex-col md:flex-row my-10'>
         <div  className=' order-2 md:order-1 w-full md:w-1/2 mt-12 md:mt-32'>
         <div className='space-y-12'>
-        <h1 className='text-4xl font-bold '>Hello, Welcome here to learn something <span className='text-pink-500'>new everyday!!!</span></h1>
+        <h1 className='text-4xl font-bold '>Hello, Welcome here to learn something new <span className='text-pink-500'>new everyday!!!</span></h1>
         <p className='text-xl'>A book is a medium for recording information in the form of writing or images. Books are typically composed of many pages, bound together and protected by a cover. Modern bound books were preceded by many other written mediums, such as the codex and the scroll. </p>
         <label className="input input-bordered flex items-center gap-2">
   <svg
